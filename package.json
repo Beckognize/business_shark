@@ -4,9 +4,11 @@
   "description": "\"# business_shark\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
-  "repository": {
+ "repository": {
     "type": "git",
     "url": "git+https://github.com/Beckognize/business_shark.git"
   },
